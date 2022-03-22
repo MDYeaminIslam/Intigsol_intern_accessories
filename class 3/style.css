@@ -1,0 +1,65 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar>li{
+   list-style: none;
+   padding-inline: 20px;
+
+}
+.fullnav{
+    background-color: aquamarine;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.navbar{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+
+}
+main{
+    background-color: chocolate;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+}
+/* hero section */
+.hero{
+    padding-inline: 15%;
+    margin-top: 10%;
+    text-align: center;
+
+}
+.title .heropera{
+    text-align: center;
+}
+
+.image{
+    width: 20%;
+    height: 300px;
+    margin-inline: 1% ;
+}
+.content{
+    margin-top: 10%;
+    display: flex;
+}
+footer{
+    margin-top: 10%;
+    background-color: aquamarine;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.footerlist{
+    margin-top: 10%;
+    display: flex;
+    padding-inline: 5%;
+}
+.div1{
+    text-align: center;
+    padding-inline:3% ;
+}
